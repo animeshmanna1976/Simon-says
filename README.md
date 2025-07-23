@@ -28,35 +28,4 @@ CSS3: For styling and visual presentation.
 
 JavaScript: For game logic, interactivity, and dynamic elements.
 
-🛠️ Setup and Installation
-To run this game locally:
-
-Clone the Repository:
-
-git clone https://github.com/YOUR_USERNAME/simon-says-game.git
-
-Navigate to the Directory:
-
-cd simon-says-game
-
-Open index.html: Simply open the index.html file in your preferred web browser.
-
-🤝 Contributing
-Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, please feel free to:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature/your-feature-name).
-
-Make your changes.
-
-Commit your changes (git commit -m 'Add new feature').
-
-Push to the branch (git push origin feature/your-feature-name).
-
-Open a Pull Request.
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Enjoy the game and challenge your memory!
